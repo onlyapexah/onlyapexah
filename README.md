@@ -1,16 +1,13 @@
-## Hi there 👋
+## just onlyapexah, writing code 👋
 
-<!--
-**onlyapexah/onlyapexah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Exploring memory safety, systems programming, and high-performance CLI tools. Based in Indonesia.
 
-Here are some ideas to get you started:
+- happier in a terminal than in an IDE
+- reach me at **@onlyapexah** on GitHub
+- reading docs more than books lately
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=onlyapexah&hide_border=true&theme=xcode" alt="Contribution graph" />
+
+<img width="41%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=onlyapexah&layout=compact&langs_count=8&hide_border=true&theme=merko" alt="Top languages" />
+
+<img src="https://img.shields.io/badge/Git-58a6ff?style=for-the-badge&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/WebAssembly-58a6ff?style=for-the-badge&logoColor=white" alt="WebAssembly" /> <img src="https://img.shields.io/badge/Rust-58a6ff?style=for-the-badge&logoColor=white" alt="Rust" />
